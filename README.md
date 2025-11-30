@@ -22,4 +22,13 @@ Demostrated experience producing offensive and defensive results throughout the 
 
 <h2> 🔐 Blue Team Proficiencies </h2>
 
-<h2> 🌐 Spectrum Operations Proficiencies </h2>
+<h2> 🗽 Cyber Competitions </h2>
+<details>
+  <summary>NCAE Cybergames</summary>
+  ◦ 2025 3/10th East Coast <br>
+  ◦ 2026 in progress
+</details>
+<details>
+  <summary>CCDC</summary>
+  ◦ 2026 in progress
+</details>
